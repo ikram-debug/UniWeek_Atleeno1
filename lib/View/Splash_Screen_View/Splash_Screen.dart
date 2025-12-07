@@ -1,5 +1,6 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
+import 'package:uniweek1/View/auth/authscreen.dart';
 import '../../ViewModel/SplashScreenVM.dart';
 import '../Home_Screen_View/Home_Screen.dart';
 
@@ -18,12 +19,13 @@ class _SplashScreenState extends State<SplashScreen> {
   void initState() {
     super.initState();
 
-    viewModel.goToNextScreen(context, const HomeScreen());
+    viewModel.goToNextScreen(context,  AuthScreen());
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Color(0xFFF1F1F1),
       body: Center(
         child: SizedBox(
           height: 200,

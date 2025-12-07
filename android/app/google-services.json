@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213835277700",
+    "project_id": "visual-spark",
+    "storage_bucket": "visual-spark.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213835277700:android:448f9e92359f34de5829d1",
+        "android_client_info": {
+          "package_name": "com.example.visual_spark_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1zZzuRaBjJ4kKLpjHRpMGELQhwA0eDR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,6 +1,7 @@
 import "package:flutter/material.dart";
-import "package:visual_spark_app/routes/routes.dart";
-import "package:visual_spark_app/routes/routes_name.dart";
+import "package:uniweek1/routes/routes.dart";
+import "package:uniweek1/routes/routes_name.dart";
+
 
 import "View/Splash_Screen_View/Splash_Screen.dart";
 

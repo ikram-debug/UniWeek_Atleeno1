@@ -1,9 +1,8 @@
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:uniweek1/View/Splash_Screen_View/Splash_Screen.dart';
 import 'package:uniweek1/routes/routes_name.dart';
-
-import '../View/Splash_Screen_View/Splash_Screen.dart';
-
 
 class AppRoutes {
 
